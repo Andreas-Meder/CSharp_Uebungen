@@ -1,0 +1,42 @@
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.exe
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.deps.json
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.runtimeconfig.json
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.dll
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.pdb
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.AssemblyInfoInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.AssemblyInfo.cs
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.csproj.CoreCompileInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.dll
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\obj\Debug\net9.0\refint\Zahlen raten.dll
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.pdb
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.genruntimeconfig.cache
+D:\SE-Grundlagen\SE-Grundlagen\Zahlen raten\obj\Debug\net9.0\ref\Zahlen raten.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.exe
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.deps.json
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.runtimeconfig.json
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.pdb
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.AssemblyInfoInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.AssemblyInfo.cs
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.csproj.CoreCompileInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\refint\Zahlen raten.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.pdb
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.genruntimeconfig.cache
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\ref\Zahlen raten.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.exe
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.deps.json
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.runtimeconfig.json
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\bin\Debug\net9.0\Zahlen raten.pdb
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.AssemblyInfoInputs.cache
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.AssemblyInfo.cs
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.csproj.CoreCompileInputs.cache
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\refint\Zahlen raten.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.pdb
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\Zahlen raten.genruntimeconfig.cache
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Zahlen raten\obj\Debug\net9.0\ref\Zahlen raten.dll
