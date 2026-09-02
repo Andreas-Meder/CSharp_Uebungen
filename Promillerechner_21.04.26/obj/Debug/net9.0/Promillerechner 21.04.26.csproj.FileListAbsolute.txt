@@ -1,0 +1,42 @@
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.exe
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.deps.json
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.runtimeconfig.json
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.dll
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.pdb
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.AssemblyInfoInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.AssemblyInfo.cs
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.csproj.CoreCompileInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.dll
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\obj\Debug\net9.0\refint\Promillerechner 21.04.26.dll
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.pdb
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.genruntimeconfig.cache
+D:\SE-Grundlagen\SE-Grundlagen\Promillerechner 21.04.26\obj\Debug\net9.0\ref\Promillerechner 21.04.26.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.exe
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.deps.json
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.runtimeconfig.json
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.pdb
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.AssemblyInfoInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.AssemblyInfo.cs
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.csproj.CoreCompileInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\refint\Promillerechner 21.04.26.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.pdb
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.genruntimeconfig.cache
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\ref\Promillerechner 21.04.26.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.exe
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.deps.json
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.runtimeconfig.json
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\bin\Debug\net9.0\Promillerechner 21.04.26.pdb
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.AssemblyInfoInputs.cache
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.AssemblyInfo.cs
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.csproj.CoreCompileInputs.cache
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\refint\Promillerechner 21.04.26.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.pdb
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\Promillerechner 21.04.26.genruntimeconfig.cache
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Promillerechner 21.04.26\obj\Debug\net9.0\ref\Promillerechner 21.04.26.dll
