@@ -1,0 +1,56 @@
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.exe
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.deps.json
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.runtimeconfig.json
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.dll
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.pdb
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.AssemblyInfoInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.AssemblyInfo.cs
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.csproj.CoreCompileInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.dll
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\obj\Debug\net9.0\refint\Taschenrechner_24.04.2026.dll
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.pdb
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.genruntimeconfig.cache
+D:\SE-Grundlagen\SE-Grundlagen\Taschenrechner_24.04.2026\obj\Debug\net9.0\ref\Taschenrechner_24.04.2026.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.exe
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.deps.json
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.runtimeconfig.json
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.pdb
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.AssemblyInfoInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.AssemblyInfo.cs
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.csproj.CoreCompileInputs.cache
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\refint\Taschenrechner_24.04.2026.dll
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.pdb
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.genruntimeconfig.cache
+D:\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\ref\Taschenrechner_24.04.2026.dll
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.exe
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.deps.json
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.runtimeconfig.json
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.dll
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.pdb
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.AssemblyInfoInputs.cache
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.AssemblyInfo.cs
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.csproj.CoreCompileInputs.cache
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.dll
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\refint\Taschenrechner_24.04.2026.dll
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.pdb
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.genruntimeconfig.cache
+C:\Users\MederAndreas\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\ref\Taschenrechner_24.04.2026.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.exe
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.deps.json
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.runtimeconfig.json
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\bin\Debug\net9.0\Taschenrechner_24.04.2026.pdb
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.AssemblyInfoInputs.cache
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.AssemblyInfo.cs
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.csproj.CoreCompileInputs.cache
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\refint\Taschenrechner_24.04.2026.dll
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.pdb
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\Taschenrechner_24.04.2026.genruntimeconfig.cache
+C:\Users\PC-Neu\OneDrive - LG-Academy\Visual Studio\SE-Grundlagen\SE-Grundlagen Übungen\Taschenrechner_24.04.2026\obj\Debug\net9.0\ref\Taschenrechner_24.04.2026.dll

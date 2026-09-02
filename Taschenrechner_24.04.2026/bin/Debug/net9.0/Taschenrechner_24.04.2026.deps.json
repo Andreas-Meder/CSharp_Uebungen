@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Taschenrechner_24.04.2026/1.0.0": {
+        "runtime": {
+          "Taschenrechner_24.04.2026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taschenrechner_24.04.2026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
